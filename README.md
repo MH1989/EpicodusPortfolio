@@ -4,6 +4,10 @@ Description: A programming portfolio landing page for Mulu Habtemariam's work as
 
 ## Setup Instructions
 
+Clone this repository.
+
+Open Web Broswer and follow "Link" below.
+
 Includes:
 - my name
 - an "About Me" section
