@@ -1,0 +1,40 @@
+.img {
+  float:left;
+  margin: 15px;
+  padding: 10px;
+}
+
+.box {
+  border: 2px solid #0000FF;
+  padding: 5px;
+  margin: 12px;
+  background-color: orange;
+  border-style: solid;
+}
+
+.sidebar {
+  float: right;
+  background-color: yellow;
+  border-style: dashed;
+  border-color: #000000;
+  margin: 12px;
+  padding: 5px;
+}
+
+h1 {
+  padding-left: 25px;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+/*
+ * Bootstrap Class
+ */
+
+body {
+  color: #000000;
+  background-color: #cdf891;
+  text-shadow: 0 1px 3px rgba(0,0,0,.5);
+}
